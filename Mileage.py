@@ -1,3 +1,7 @@
+# Created By: Cameron Beebe
+# Created on: 11/1/23
+# Purpose: Aid in creating a mileage spreadsheet when traveling between plants
+
 import tkinter as tk
 from tkinter import messagebox
 import openpyxl
